@@ -88,7 +88,7 @@ class OrderValidator {
     if (!page || !limit) {
       return {
         code: 400,
-        message: "The page and order are required."
+        message: "The page and limit are required."
       };
     }
 
