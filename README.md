@@ -5,7 +5,7 @@ This is an app for order service APIs. There are three main APIs including "Plac
 ## Configuration
 
 - Get the Google Map API key with "Distance Matrix API" enabled from the Goggle Cloud Plaform (https://console.cloud.google.com/)
-- Setup the GOOGLE_MAPS_API_KEY in the app/.env.production and app/.env.test file as following
+- Setup the GOOGLE_MAPS_API_KEY in the app/.env.production and app/.env.test files as following
 
 ```
 GOOGLE_MAPS_API_KEY="AIzaSyBdddA2l65VVkeGe4cV3BuiExxxxxxxxxx"
