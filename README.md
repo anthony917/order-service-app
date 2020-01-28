@@ -16,6 +16,7 @@ GOOGLE_MAPS_API_KEY="AIzaSyBdddA2l65VVkeGe4cV3BuiExxxxxxxxxx"
 - common - Common components / classes used in the application
 - components - Components that not access database
 - middlewares - Middlewares for the HTTP request and response
+- models - Components that access database
 - routes - Routes for application API endpoints
 - services - Services for application to implement business logic
 - validators - Validators to validate the request body
