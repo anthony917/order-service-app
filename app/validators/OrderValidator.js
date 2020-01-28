@@ -77,7 +77,7 @@ class OrderValidator {
     } else if (order.status == status) {
       return {
         code: 400,
-        message: "Order status cannot be updated."
+        message: "Order status cannot be updated repeatedly."
       };
     }
 
